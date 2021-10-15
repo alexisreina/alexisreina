@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Alexis and I'm Senior Frontend Developer. I've worked as a Freelance in the past but currently I work at Voxelcare.
+
 <!--
 **alexisreina/alexisreina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
