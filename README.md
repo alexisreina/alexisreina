@@ -3,8 +3,8 @@
 My name is Alexis and I'm Senior Frontend Developer. Here you'll find some of my side projects.
 
 
-- 🔭 I’m currently working on improving my resume and my portfolio
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on portal with a bulk editor for RBI franchisees
+- 🌱 I’m currently learning about aws and Ruby on Rails
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about frontend development, React or Vue
 - 📫 How to reach me: send me an email to chistofano@gmail.com
